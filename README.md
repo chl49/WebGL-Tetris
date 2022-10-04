@@ -21,7 +21,4 @@
 ## Instructions:
 Open index.html
 
-## Video
-DEMO: https://www.youtube.com/watch?v=SJXjdM9WH_w
-
 
